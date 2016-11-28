@@ -25532,7 +25532,7 @@ function h$mainZCMainziTrace_e()
 function h$$A6()
 {
   h$bh();
-  var a = h$ustra("fill:red");
+  var a = h$ustra("fill:blue");
   h$l2(a, h$textzm1zi2zi2zi1zm6Pphv4bzz3hHEAngNHxPNZZeZCDataziTextziInternalzizdfIsStringText);
   return h$ap_1_1_fast();
 };
